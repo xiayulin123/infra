@@ -1,4 +1,4 @@
-# BitGo InfraOps — Scalable Web Service on AWS
+# InfraOps — Scalable Web Service on AWS
 
 **Live URL:** https://yulin-xia-bitgo-infra-web-services.com  
 (`/health` · `/metrics`) · **Region:** `us-east-1` · **Cluster:** `bitgo-infraops-dev`
